@@ -8,6 +8,9 @@
 
 ### Benchmarking LLMs
 
+* LMSYS Chatbot Arena Leaderboard https://chat.lmsys.org/?leaderboard
+* Vectara's Hallucination Leaderboard https://huggingface.co/spaces/vectara/leaderboard
+
 ---
 
 ### Alignment 
@@ -17,12 +20,47 @@
 ### Physics and AI 
 
 
+--- 
+
+### Responsible AI 
 ---
 
 ### Evaluation Metrics 
 
+---
+### Regulations 
 
---- 
+---
 
-### Other
+### Tools 
+
+#### Vector Databases 
+* [Pinecone](https://www.pinecone.io). Open source tool, databases for AI applications  
+
+#### Building LLM Apps 
+* [LlamaIndex](https://docs.llamaindex.ai/en/stable/). Open source tool that provides data connectors, application integration, data indexes and data agents 
+* [LangChain](https://www.langchain.com). Open source tools for creating chains and agents using LLM. Template notebooks [here](https://github.com/langchain-ai/langchain/tree/master/templates).
+* [AutoGen](https://microsoft.github.io/autogen/). Building multi-agent networks. Open source tools for creating agents or multi-agent using LLM. See examples [here](https://github.com/microsoft/autogen/tree/main/notebook). 
+
+#### Model Platforms
+* [ChatGPT](https://chat.openai.com/), Prompt engineering, fine-tuning, and assistants. Explore and build your custom GPT with no-code [here](https://chat.openai.com/gpts/discovery) OR use your own [developer](https://platform.openai.com/docs/overview)
+* [AWS Bedrock](https://aws.amazon.com/bedrock/)
+* [HuggingFace](https://huggingface.co), Model marketplace and model serving, HF provides access to open-source models like [Llama 2](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf), and you can also explore community generated spaces [here](https://huggingface.co/spaces).
+
+#### Low code platforms
+* [AWS PartyRock](https://partyrock.aws), Prompt engineering, and assistants. Build AI apps with no code
+
+#### Evaluations
+* [OpenAI Evals](https://github.com/openai/evals). Open source evaluation framework for LLMs, it aims to make it as simple as possible to build an eval while writing as little code as possible. An "eval" is a task used to evaluate the quality of a system's behavior. 
+
+#### Visualization and Frontend
+* [Streamlit](https://docs.streamlit.io/). Easy to use frontend and UI in Python. Ideas from the [community](https://streamlit.io/generative-ai).
+* Taipy
+
+#### Observability & Monitoring
+* [Helicone](https://www.helicone.ai/), Monitoring and observability. Monitoring layer for API usage
+
+
+
+
 
