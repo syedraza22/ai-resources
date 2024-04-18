@@ -61,6 +61,19 @@
 * [Helicone](https://www.helicone.ai/), Monitoring and observability. Monitoring layer for API usage
 
 
+---
+### Other Resources
 
+#### slides
+* building RAG and Agents https://docs.google.com/presentation/d/1dbfoxzNcoI-D45RKZfO1UfBJIr4v0YtHhj1cwuCj020/mobilepresent?slide=id.p
+
+#### talks
+
+#### papers
+
+#### links
+* A16z survey (https://a16z.com/generative-ai-enterprise-2024/)
+* A collection of notebooks for building practical AI applications using open-source tools and models: https://github.com/huggingface/cookbook
+* https://www.philschmid.de/sagemaker-train-evalaute-llms-2024 
 
 
