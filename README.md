@@ -1,4 +1,4 @@
-# AI Learning Resources and Tools
+# AI Resources and Tools
 
 ## Overview
 
